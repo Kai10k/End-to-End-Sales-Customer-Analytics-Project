@@ -1,5 +1,10 @@
 # Customer Churn & Sales Analytics Project
 
+## Project Highlights
+- End-to-end data science workflow (EDA → ML → Insights)
+- Business recommendations included
+- Random Forest used for churn prediction
+
 ## Business Problem
 Customer churn is a major challenge for subscription-based businesses as acquiring new customers is more expensive than retaining existing ones.  
 This project aims to analyze customer behavior, identify key churn drivers, and build a machine learning model to predict customers likely to churn.
